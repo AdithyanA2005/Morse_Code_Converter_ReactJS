@@ -38,7 +38,7 @@ function Converter() {
       let letter = morseToLetter[char];
 
       // Show a alert if user enter morse code a non alphanumeric character
-      if (letter == undefined) {
+      if (letter === undefined) {
         if (char === "" || char === " ") return;
         letter = "❌";
       }
