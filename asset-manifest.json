@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Morse_Code_Converter_ReactJS/static/css/main.6d6ab5ed.css",
+    "main.js": "/Morse_Code_Converter_ReactJS/static/js/main.ec152e6f.js",
+    "index.html": "/Morse_Code_Converter_ReactJS/index.html",
+    "main.6d6ab5ed.css.map": "/Morse_Code_Converter_ReactJS/static/css/main.6d6ab5ed.css.map",
+    "main.ec152e6f.js.map": "/Morse_Code_Converter_ReactJS/static/js/main.ec152e6f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d6ab5ed.css",
+    "static/js/main.ec152e6f.js"
+  ]
+}
